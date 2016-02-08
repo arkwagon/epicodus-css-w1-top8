@@ -5,3 +5,50 @@
        -moz-box-sizing: border-box;
             box-sizing: border-box;
 }
+.friendSpace {
+  height: 675px;
+  width: 1050px;
+  border: 1px solid #ffcd9c;
+}
+
+.header {
+  margin-top: 0px;
+  padding: 15px;
+  color: #D26F45;
+  background-color: #ffcd9c;
+}
+.friendNum {
+  color: red;
+  font-weight: bold;
+}
+.bottomText {
+  color: red;
+  font-weight: bold;
+  margin-top: 565px;
+  text-align: right;
+  padding-right: 10px;
+}
+.profiles {
+  margin: 25px;
+  float: left;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.name {
+  color: #2D4EB9;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.facePics {
+  width: 100%;
+  cursor: pointer;
+  border: 2px solid #2D4EB9;
+}
+
+.onlineNow {
+  cursor: pointer;
+  margin-top: 5px;
+}
